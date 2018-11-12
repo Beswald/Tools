@@ -9,7 +9,7 @@ By using this application and a custom lua script, I created a set of macros tha
 
 - KeyLayout.xlsx - Key map for my keypad, this will be different for different keypads. The correspoding key id's will have to change accordingly.
 
--Scripts folder - Contains various visual basic scripts launched by macro keys. Usually multi step operations or actions that needed file access etc...
+- Scripts folder - Contains various visual basic scripts launched by macro keys. Usually multi step operations or actions that needed file access etc...
 
 LuaMacros resources:
 MessageBoard/Help/Faq: http://www.hidmacros.eu/forum/viewforum.php?f=9
