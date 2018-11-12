@@ -11,6 +11,10 @@ By using this application and a custom lua script, I created a set of macros tha
 
 - Scripts folder - Contains various visual basic scripts launched by macro keys. Usually multi step operations or actions that needed file access etc...
 
+Usage:
+    LuaMacros.exe -r MacroPad.lua
+
+
 LuaMacros resources:
 MessageBoard/Help/Faq: http://www.hidmacros.eu/forum/viewforum.php?f=9
 Download and Version Information:  http://www.hidmacros.eu/forum/viewtopic.php?f=10&t=241
